@@ -2,7 +2,7 @@
 
 ## About 
 
-This is a template for creating a privacy policy for any website, app, or software you might develop. It's important to be transparent and honest in your privacy policy, so be diligent when writing yours.
+This is a privacy policy template for any website, app, or software you might develop. It's important to be transparent and honest in your privacy policy, so be diligent when writing yours.
 
 ## Sections
 
