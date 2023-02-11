@@ -34,7 +34,7 @@ Here are just a few examples of ways you may use the user data you collect:
 
 If you engage in any of the above activities — or others that require the collection of data — you need to list them in your privacy policy.
 
-### Data Discloure to Third Parties
+### Data Disclosure to Third Parties
 
 It’s not uncommon for a website to be integrated with other sites and services. For example, nearly 30 million live websites use Google Analytics. Given this online ecosystem, it’s only to be expected that your website might need to transfer data to third parties to operate smoothly.
 
